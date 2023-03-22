@@ -18,6 +18,6 @@ I have a Master’s degree in Computational & Cognitive Bioscience -- in practic
 
 Since graduating, I have worked in the marine industry, opinion research, healthcare and most recently building internal tooling and pricing for consumer surplus commerce. I've worked in analyst, product owner and software development positions, mostly in modeling or data processing applications.
 
-Currently I amjliving in Helsinki, Finland, but in the past I have lived on Cát Bà, Vietnam, in Laos commuting between Green Climbers Home in Thakhek and Vientiane, as well as in Berlin. I've crossed two continents overland: Helsinki to Shanghai as well as Vancouver to New York.
+Currently I am living in Helsinki, Finland, but in the past I have lived on Cát Bà, Vietnam, in Laos commuting between Green Climbers Home in Thakhek and Vientiane, as well as in Berlin. I've crossed two continents overland: Helsinki to Shanghai as well as Vancouver to New York.
 
 More current stuff on the [Now page](/now/).
