@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Whee!
+subtitle: ""
 
 profile:
   align: right
